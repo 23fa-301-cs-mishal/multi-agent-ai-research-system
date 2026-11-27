@@ -1,0 +1,47 @@
+# Core LangChain
+langchain==1.4.0
+langchain-core==1.6.2
+langchain-community==0.4.2
+langchain-groq==1.1.3
+langchain-tavily==0.2.18
+
+# Web / UI
+streamlit==1.63.0
+
+# Tavily
+tavily-python==0.8.1
+
+# Web scraping
+beautifulsoup4==4.15.0
+readability-lxml==0.9
+trafilatura==2.2.0
+requests==2.34.2
+lxml==6.1.3
+
+# Environment variables / SSL
+python-dotenv==1.2.3
+certifi==2026.7.22
+
+# logging/debugging
+rich==15.0.0
+
+# pdf 
+pypdf==6.18.0
+
+
+
+fastapi==0.136.3
+uvicorn==0.48.0
+jinja2==3.1.6
+python-multipart==0.0.29
+langchain-google-genai==4.2.4
+langchain-text-splitters==1.1.3
+langgraph-checkpoint-sqlite==3.1.3
+langchain-chroma==1.1.0
+chromadb==1.5.9
+docx2txt==0.9
+sqlalchemy==2.0.50
+sentence-transformers
+langchain-huggingface
+rank-bm25
+langchain-openai
